@@ -12,7 +12,7 @@ This is a Go-based application that tracks USDC transfers on the Ethereum blockc
 
 ### Prerequisites
 
-- Go
+- Go 1.21.3+
 - SQLite
 - Infura account (for Ethereum network access)
 
