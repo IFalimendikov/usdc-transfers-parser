@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project is a Go-based application that tracks USDC (USD Coin) transfers on the Ethereum blockchain. It fetches transfer events for a specific block and stores them in a SQLite database.
+This is a Go-based application that tracks USDC transfers on the Ethereum blockchain. It fetches transfer events for a specific block and stores them in a SQLite database.
 
 ### Features
 
