@@ -1,4 +1,4 @@
-## USDC Transfers Parser
+## 💰USDC Transfers Parser💰
 
 ### Overview
 
@@ -14,7 +14,7 @@ This project is a Go-based application that tracks USDC (USD Coin) transfers on 
 
 - Go
 - SQLite
-- Infura account (for Ethereum network access) `https://www.infura.io/`
+- Infura account (for Ethereum network access)
 
 ### Installation 
 
